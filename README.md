@@ -6,9 +6,13 @@ Welcome to the Tic Tac Toe repository! This project showcases a classic game of 
 
 # Features:
 🌟 Interactive Gameplay: Experience the joy of playing Tic Tac Toe with a sleek and intuitive graphical interface.
+
 🎯 Multiplayer Mode: Enjoy challenging against a friend in multiplayer mode.
+
 🔀 Randomized Starting Player: Each game starts with a randomly selected starting player, adding an element of surprise to the gameplay.
+
 🎉 Victory Detection: The game automatically detects winning moves and declares the winner or a draw, ensuring a fair and enjoyable experience.
+
 🔄 Replayability: Start a new game with just a click, allowing for unlimited rounds of fun and excitement.
 
 # Getting Started:
