@@ -13,8 +13,11 @@ Welcome to the Tic Tac Toe repository! This project showcases a classic game of 
 
 # Getting Started:
 1️⃣ Clone the repository to your local machine.
+
 2️⃣ Ensure you have Python and the Tkinter library installed.
+
 3️⃣ Run the game script using your Python interpreter.
+
 4️⃣ challenge a friend in multiplayer mode.
 
 Feel free to explore and modify the code, suggest improvements, or customize the game to your liking. Let's keep the spirit of Tic Tac Toe alive with Python and Tkinter!
