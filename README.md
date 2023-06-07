@@ -20,7 +20,7 @@ Welcome to the Tic Tac Toe repository! This project showcases a classic game of 
 
 2️⃣ Ensure you have Python and the Tkinter library installed.
 
-3️⃣ Run the game script using your Python interpreter.
+3️⃣ Run the game script using your Python interpreter/IDE.
 
 4️⃣ challenge a friend in multiplayer mode.
 
